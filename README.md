@@ -43,12 +43,11 @@ If you want full control over the build configuration, you can eject the app, wh
 
 ## Installation
 ### Clone the Repository
-```bash
-git clone https://github.com/your-username/job-management-dashboard.git
+
+git clone 
+```https://github.com/your-username/job-management-dashboard.git```
+
 cd job-management-dashboard
-
-
-
 
 
 ## Usage
@@ -73,7 +72,6 @@ cd job-management-dashboard
 ## Project Structure
 Below is a high-level overview of the main project structure:
 
-```plaintext
 src/
 ├── components/
 │   ├── assessment/
@@ -117,19 +115,19 @@ Including screenshots gives users a better understanding of the project and its 
   ![Dashboard View](./public/images/dashboard.png)
 
 - **Add Job Role Form**
-  ![Add Job Role Form](public/images/addJob.png.png)
+  ![Add Job Role Form](public/images/addJob.png)
 
 - **Assessment Form**
-  ![Assessment Form](public/images/Assessment.png.png)
+ ![Assessment Form](public/images/Assessment.png)
 
 - **Question Form**
-  ![Question Form](public/images/QuestionForm.png.png)
+  ![Question Form](public/images/QuestionForm.png)
 
 - **Candidate View**
-  ![Candidate View](public/images/Candidate.png.png)
+  ![Candidate View](public/images/Candidate.png)
 
 - **All Candidates View**
-  ![All Candidates View](public/images/AllCandidate.png.png)
+  ![All Candidates View](public/images/AllCandidate.png)
 
 
 ## Demo
