@@ -72,7 +72,7 @@ cd job-management-dashboard
 ## Project Structure
 Below is a high-level overview of the main project structure:
 
-src/
+```src/
 ├── components/
 │   ├── assessment/
 │   │   ├── existingFormList.jsx          # Displays a list of existing assessment forms
@@ -104,6 +104,7 @@ src/
 ├── App.js                                # Main application component
 ├── index.js                              # Entry point for React app
 └── README.md                             # Project README
+```
 
 
 
